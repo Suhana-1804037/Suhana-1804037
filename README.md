@@ -13,5 +13,7 @@ Skills: C/C++/Python/HTML/CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suhana-1804037)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/Suhana-1804037)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Suhana-1804037&show_icons=true)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Suhana-1804037/contributions?format=svg&private=false)  
 
